@@ -12,5 +12,5 @@ fn main() {
 
     let name = s.trim();
 
-    println!("Hi {} i am your virtual girlfriend!", name);
+    println!("Hi {} i am your virtual girlfriend! 😉", name);
 }
