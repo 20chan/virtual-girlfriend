@@ -14,3 +14,5 @@ fn main() {
 
     println!("Hi {} i am your virtual girlfriend! 😉", name);
 }
+
+// 하지만 여자친구쨩 이렇게라도 하지 않으면..1!!
